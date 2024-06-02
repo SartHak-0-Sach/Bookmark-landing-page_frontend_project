@@ -67,7 +67,7 @@ ul {
 }
 .cta-btn-red:hover {
   background: #fff;
-  color: var(--soft-red);
+  color: var(--soft-red) !important;
   border: 1.5px solid var(--soft-red);
   box-shadow: 0 4px 4px hsla(229, 8%, 60%, 0.25);
 }
