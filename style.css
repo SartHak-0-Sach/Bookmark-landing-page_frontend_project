@@ -615,7 +615,7 @@ footer .footer-container {
 .attribution {
     bottom: .8rem;
     left: 50%;
-    transform: translateX(-20%);
+    transform: translateX(-70%);
     font-size: 11px;
     text-align: center;
 }
