@@ -728,6 +728,11 @@ footer .footer-container {
     margin-left: 12px;
   }
 
+.content{
+display: flex;
+flex-direction: column;
+}
+
   /* -------------------------- FEATURES CONTAINER -------------------------- */
   .features-container {
     width: 100%;
